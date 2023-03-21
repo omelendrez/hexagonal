@@ -1,3 +1,4 @@
+```
 project/
 ├── src/
 │   ├── application/
@@ -29,3 +30,4 @@ project/
 │   └── server.js
 ├── package.json
 └── README.md
+```
